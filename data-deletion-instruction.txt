@@ -1,12 +1,15 @@
-How to Delete Your Account and User Data
-To delete your account and associated data from our app, please follow these steps:
+Data Deletion Instructions for Jetmav
 
-Open the App on your device.
+To delete your data from the Jetmav app, please follow these steps:
 
-Tap on the "More" tab (usually located at the bottom right of the screen).
+Open the Jetmav app on your device.
 
-Select "Delete Account" from the options.
+Tap on the “More” tab (usually located at the bottom right).
+
+Select “Delete Account” from the menu.
 
 Confirm the deletion when prompted.
 
-Once confirmed, your account and all associated data will be permanently removed from our system in compliance with Facebook's data deletion policy.
+Once confirmed, your account and all associated data will be permanently deleted from our servers in compliance with Facebook’s data policy.
+
+If you need further assistance, please contact us at: info@jetmav.com
