@@ -1,0 +1,12 @@
+How to Delete Your Account and User Data
+To delete your account and associated data from our app, please follow these steps:
+
+Open the App on your device.
+
+Tap on the "More" tab (usually located at the bottom right of the screen).
+
+Select "Delete Account" from the options.
+
+Confirm the deletion when prompted.
+
+Once confirmed, your account and all associated data will be permanently removed from our system in compliance with Facebook's data deletion policy.
